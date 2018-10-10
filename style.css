@@ -47,6 +47,9 @@ h1 {
   text-decoration: underline;
   margin-left: 40px
 }
+.rule{
+  font-weight: bold;
+}
 
 @media(max-width:700px) {
   #navigator {
